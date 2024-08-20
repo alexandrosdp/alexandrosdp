@@ -1,4 +1,4 @@
-# 🏄‍♂️ Alex
+# 🧿 Alex
 
 **`Computational Scientist`**
 
