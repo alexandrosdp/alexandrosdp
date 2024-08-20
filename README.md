@@ -1,4 +1,12 @@
-# Hi there 👋
+# 🏄‍♂️ Alex
+
+**`Computational Scientist`**
+
+Welcome to my Github, my name is Alex. As a Computational Scientist, I work within the intersection of data science, mathematical modeling, and high-performance computing. I write efficient and scalable code for scientific applications that are complex and data intensive. I am currently specialising in the domain of Computational Finance, aspiring to write high performance code for in house quantatative financial analysis software.
+
+
+
+
 
 <!--
 **alexandrosdp/alexandrosdp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
