@@ -12,6 +12,7 @@ Welcome to my Github, my name is Alex. As a Computational Scientist, I work with
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />                    
 <img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-original.svg" />
+<br />
 
 
 
@@ -19,7 +20,6 @@ Welcome to my Github, my name is Alex. As a Computational Scientist, I work with
 
 
 
-<br />
 
 
 
