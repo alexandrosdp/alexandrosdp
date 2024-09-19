@@ -2,7 +2,7 @@
 
 **`Computational Scientist`**
 
-Welcome to my Github, my name is Alex. As a Computational Scientist, I work within the intersection of data science, mathematical modeling, and high-performance computing. I write efficient and scalable code for scientific applications that are complex and data intensive. I am currently specialising in the domain of Computational Finance, aspiring to enter add value to the finance industry as a quantitative developer or analyst.
+Welcome to my Github, my name is Alex. As a Computational Scientist, I work within the intersection of data science, mathematical modeling, and high-performance computing. I write efficient and scalable code for scientific applications that are complex and data intensive. I am currently specialising in the domain of Computational Finance, aspiring to add value to the finance industry as a quantitative developer or analyst.
 
 ---
 
